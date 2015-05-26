@@ -5,7 +5,7 @@ spinbox component using javascript
 ![Image](https://github.com/rmcodestar/spinbox/blob/master/img.png)
 
 # How to use spinbox
-```
+```html
 <head>
 <script src="Spinbox.js"></script>
 </head>
